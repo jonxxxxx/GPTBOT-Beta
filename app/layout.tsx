@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "iBot V2.10 DONGXUAN",
+  title: "iBot v2.10",
   description: "Your personal ChatGPT Chat Bot.",
   viewport: {
     width: "device-width",
